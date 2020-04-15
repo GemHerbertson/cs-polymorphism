@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/cSharpPolymorphism/bin/Debug/netcoreapp3.1/cSharpPolymorphism.deps.json
+/Users/codenation/Desktop/cSharpPolymorphism/bin/Debug/netcoreapp3.1/cSharpPolymorphism.runtimeconfig.json
+/Users/codenation/Desktop/cSharpPolymorphism/bin/Debug/netcoreapp3.1/cSharpPolymorphism.runtimeconfig.dev.json
+/Users/codenation/Desktop/cSharpPolymorphism/bin/Debug/netcoreapp3.1/cSharpPolymorphism.dll
+/Users/codenation/Desktop/cSharpPolymorphism/bin/Debug/netcoreapp3.1/cSharpPolymorphism.pdb
+/Users/codenation/Desktop/cSharpPolymorphism/obj/Debug/netcoreapp3.1/cSharpPolymorphism.csprojAssemblyReference.cache
+/Users/codenation/Desktop/cSharpPolymorphism/obj/Debug/netcoreapp3.1/cSharpPolymorphism.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/cSharpPolymorphism/obj/Debug/netcoreapp3.1/cSharpPolymorphism.AssemblyInfo.cs
+/Users/codenation/Desktop/cSharpPolymorphism/obj/Debug/netcoreapp3.1/cSharpPolymorphism.dll
+/Users/codenation/Desktop/cSharpPolymorphism/obj/Debug/netcoreapp3.1/cSharpPolymorphism.pdb
